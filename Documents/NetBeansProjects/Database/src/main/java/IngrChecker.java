@@ -60,5 +60,5 @@ public class IngrChecker {
     
     public String get(int i){
         return ingList.get(i);
-    }
+    }    
 }
